@@ -1,0 +1,3 @@
+A prototype stealth horror game built in Unreal Engine 4. I made this for 3D Game Programming at UNT. The game takes place in a dark, mysterious dungeon. In one section of the crypt, you will be pursued by a goblin dressed in gladiator armor. The game is incomplete. There is not a win condition. (Hence why I called it Goblin Trap)
+
+I developed this project by following along with [this tutorial (https://unrealenginemastery.teachable.com/p/unreal-engine-4-beginner-course-stealth-horror-game)](https://unrealenginemastery.teachable.com/p/unreal-engine-4-beginner-course-stealth-horror-game). The concepts are very similar and some code comes from the tutorial - but I altered quite a lot and authored several of my own features so I am comfortable sharing this project.
